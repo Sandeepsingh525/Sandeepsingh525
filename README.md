@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/sandeep-singh-90a130201/">
@@ -20,10 +20,9 @@
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
----
-
+  </div>
 ### :man_technologist: About Me :I am a student of chandigarh university <img src="https://tenor.com/view/dog-happy-good-puppy-smart-gif-7250964501276583027" width="30">.
+  </div>
 <!--
 **Sandeepsingh525/Sandeepsingh525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
