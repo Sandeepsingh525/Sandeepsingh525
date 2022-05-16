@@ -21,7 +21,16 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
   </div>
-man_technologist: About Me :I am a student of chandigarh university <img src="https://tenor.com/view/dog-happy-good-puppy-smart-gif-7250964501276583027" width="30">.
+  ---
+
+### :man_technologist: About Me : 
+- :I am a student of chandigarh university <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- :seedling: Exploring in Machine Learning and Web Development.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-singh-90a130201/)
   
 <!--
 **Sandeepsingh525/Sandeepsingh525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
