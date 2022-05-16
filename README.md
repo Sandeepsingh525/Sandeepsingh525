@@ -24,13 +24,14 @@
   ---
 
 ### :man_technologist: About Me : 
-- I am a student of chandigarh university <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- 🧑‍🎓: I am a student of chandigarh university <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :seedling: Exploring in Machine Learning and Web Development.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sandeep-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-singh-90a130201/)
+
   
 <!--
 **Sandeepsingh525/Sandeepsingh525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
