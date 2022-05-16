@@ -1,9 +1,6 @@
-![image](https://user-images.githubusercontent.com/55452981/168511624-0685ccfb-53fa-4581-b259-7da87a4ca047.png)
-
-
-
-
-###                                                               Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
 
